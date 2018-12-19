@@ -1,5 +1,5 @@
 trainer:
-  name: saket_dev
+  localtion: EGL
 
 eureka:
   client:
