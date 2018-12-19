@@ -1,5 +1,5 @@
 trainer:
-  localtion: EGL
+  location: EGL
 
 eureka:
   client:
