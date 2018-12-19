@@ -4,4 +4,4 @@ trainer:
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8602/eureka    
+      defaultZone: http://localhost:8601/eureka    
